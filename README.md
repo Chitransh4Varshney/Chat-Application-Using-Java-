@@ -1,7 +1,6 @@
 # Chat-Application-Using-Java-
 
-# Chat-Appication-Using-Java
-# Chat-Appication-Using-Java
+
 
 Build a Chat App in Java , Learn GUI Programming, JDBC, Socket Programming and Design patterns.
 
